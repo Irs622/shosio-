@@ -18,7 +18,7 @@ export default function App() {
         <Route path="/pengajuan/:id" element={<FormPengajuan />} />
         <Route path="/konfirmasi/:id" element={<KonfirmasiTransaksi />} />
         <Route path="/reputasi/:transaksiId" element={<ReputasiBiner />} />
-        <Route path="/profil" element={<ProfilPengguna />} />
+    m     <Route path="/profil" element={<ProfilPengguna />} />
         <Route path="/sop" element={<SOP />} />
       </Routes>
     </Router>

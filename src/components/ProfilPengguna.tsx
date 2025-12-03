@@ -5,11 +5,11 @@ import { Award, TrendingUp, Package, Gift, Calendar } from 'lucide-react';
 
 export default function ProfilPengguna() {
   const user = {
-    nama: 'Siti Aminah',
-    nim: '202101234',
-    jurusan: 'Matematika',
-    angkatan: '2021',
-    email: 'siti.aminah@student.edu',
+    nama: 'Lm irsal shydiq',
+    nim: '1237050136',
+    jurusan: 'Teknik informatika',
+    angkatan: '2023',
+    email: 'Irsalh@student.edu',
     reputasi: 85,
     totalTransaksi: 12,
     totalDonasi: 5,

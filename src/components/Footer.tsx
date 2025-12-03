@@ -42,9 +42,6 @@ export default function Footer() {
         </div>
         
         <div className="mt-8 pt-8 border-t border-slate-200 flex items-center justify-center gap-2 text-slate-600 text-sm">
-          <span>Dibuat dengan</span>
-          <Heart className="w-4 h-4 text-red-500 fill-red-500" />
-          <span>untuk Mahasiswa FST</span>
         </div>
       </div>
     </footer>
